@@ -22,7 +22,11 @@ const AddTransaction = () => {
             }
         
 
-        addTransaction(newTransaction)
+        addTransaction(newTransaction);
+
+        setText('');
+
+       setAmount('');
     }
 
     return (
