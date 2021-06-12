@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React.js_Epense-Tracker-App/static/css/main.1313a544.chunk.css",
-    "main.js": "/React.js_Epense-Tracker-App/static/js/main.c07e2b2d.chunk.js",
-    "main.js.map": "/React.js_Epense-Tracker-App/static/js/main.c07e2b2d.chunk.js.map",
+    "main.js": "/React.js_Epense-Tracker-App/static/js/main.8ff2b7b3.chunk.js",
+    "main.js.map": "/React.js_Epense-Tracker-App/static/js/main.8ff2b7b3.chunk.js.map",
     "runtime-main.js": "/React.js_Epense-Tracker-App/static/js/runtime-main.e642e2e3.js",
     "runtime-main.js.map": "/React.js_Epense-Tracker-App/static/js/runtime-main.e642e2e3.js.map",
     "static/js/2.a5a4970d.chunk.js": "/React.js_Epense-Tracker-App/static/js/2.a5a4970d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e642e2e3.js",
     "static/js/2.a5a4970d.chunk.js",
     "static/css/main.1313a544.chunk.css",
-    "static/js/main.c07e2b2d.chunk.js"
+    "static/js/main.8ff2b7b3.chunk.js"
   ]
 }
