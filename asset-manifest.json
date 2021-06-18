@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React.js_Epense-Tracker-App/static/css/main.1313a544.chunk.css",
+    "main.css": "/React.js_Epense-Tracker-App/static/css/main.3581f540.chunk.css",
     "main.js": "/React.js_Epense-Tracker-App/static/js/main.8ff2b7b3.chunk.js",
     "main.js.map": "/React.js_Epense-Tracker-App/static/js/main.8ff2b7b3.chunk.js.map",
     "runtime-main.js": "/React.js_Epense-Tracker-App/static/js/runtime-main.e642e2e3.js",
@@ -10,13 +10,13 @@
     "static/js/3.1fb51886.chunk.js": "/React.js_Epense-Tracker-App/static/js/3.1fb51886.chunk.js",
     "static/js/3.1fb51886.chunk.js.map": "/React.js_Epense-Tracker-App/static/js/3.1fb51886.chunk.js.map",
     "index.html": "/React.js_Epense-Tracker-App/index.html",
-    "static/css/main.1313a544.chunk.css.map": "/React.js_Epense-Tracker-App/static/css/main.1313a544.chunk.css.map",
+    "static/css/main.3581f540.chunk.css.map": "/React.js_Epense-Tracker-App/static/css/main.3581f540.chunk.css.map",
     "static/js/2.a5a4970d.chunk.js.LICENSE.txt": "/React.js_Epense-Tracker-App/static/js/2.a5a4970d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e642e2e3.js",
     "static/js/2.a5a4970d.chunk.js",
-    "static/css/main.1313a544.chunk.css",
+    "static/css/main.3581f540.chunk.css",
     "static/js/main.8ff2b7b3.chunk.js"
   ]
 }
