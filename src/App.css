@@ -19,9 +19,8 @@ body {
 
 .container {
   margin: 30px auto;
-  width: 800px;
+  width: 100%;
 }
-
 h1 {
   letter-spacing: 1px;
   margin: 0;
